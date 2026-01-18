@@ -1,9 +1,8 @@
 # 🇮🇳 Manufacture India  
 ## Global Manufacturing Order & Quotation Platform
 
+![Manufacturing Banner](https://www.peopleready.com/wp-content/uploads/2022/12/CS-1818_Blog-Post-Images-for-Trends-Content_1000x460_Manufacturing.png)
 
-
-![Logistics](https://www.mmindia.co.in/files/2022/julyaugust/10shutterstock_1582761031.jpg)
 
 
 > A startup platform that allows global customers to place manufacturing requests and enables Indian manufacturers to competitively bid, accept, and fulfill orders through a transparent digital workflow.
@@ -183,4 +182,5 @@ Founder & Full-Stack Developer
 
 > Build the digital backbone that makes Indian manufacturing globally accessible, competitive, and trusted.
 
-![Manufacturing Banner](https://www.peopleready.com/wp-content/uploads/2022/12/CS-1818_Blog-Post-Images-for-Trends-Content_1000x460_Manufacturing.png)
+![Logistics](https://www.mmindia.co.in/files/2022/julyaugust/10shutterstock_1582761031.jpg)
+
